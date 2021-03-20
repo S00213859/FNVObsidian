@@ -1,0 +1,65 @@
+nav
+{
+    background-color: sienna;
+}
+
+h1{
+    font-family:monospace;
+    color: darkorange;
+}
+
+h2{
+    font-family:monospace;
+    color: azure;
+    font-size: 20px;
+}
+
+p {
+    font-family: monospace;
+    color: azure;
+    font-size: 20px;
+}
+
+
+
+body {
+    
+  background-image: url(images/1235727.jpg);
+  background-color: azure;
+    display: block;
+    margin: 50px;
+}
+
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav 
+{
+    padding: 5px;
+}
+
+nav ul li
+{
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    background-color: gray;
+    display: inline;
+}
+
+header
+{
+    background-color: grey;
+    padding: 10px;
+    font-size: 30px;
+    border-image-source: 
+    
+}
