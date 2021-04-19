@@ -14,6 +14,38 @@ h2{
     font-size: 20px;
 }
 
+h3 {
+    font-family: monospace;
+    color: azure;
+    font-size: 40px;
+}
+
+th {
+    color:azure;
+    font-family: monospace;
+    font-size: 20px;
+} 
+
+td {
+    color:azure;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+label {
+    color: azure;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+li {
+    font-family: monospace;
+    font-size: 20px;
+    color: azure;
+}
+
+
+
 p {
     font-family: monospace;
     color: azure;
@@ -24,7 +56,7 @@ p {
 
 body {
     
-  background-image: url(images/1235727.jpg);
+  background-image: url(images/sand_waves_surface_197279_3840x2400.jpg);
   background-color: azure;
     display: block;
     margin: 50px;
@@ -63,3 +95,21 @@ header
     border-image-source: 
     
 }
+
+footer{
+    background-color: sienna;
+    padding: 10px;
+}
+
+footer p
+{
+    color: azure;
+    text-align: center;
+}
+
+.fnvtrailers {
+    text-decoration: none;
+    text-decoration-color: azure;
+}
+
+
